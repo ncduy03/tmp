@@ -1,0 +1,14 @@
+Bổ sung
+- Login (cả ở navbar)
+
+Nhân viên
+- Bổ sung thêm nhân viên
+
+Tổng quan
+- Hiện doanh thu theo ngày or tuần or tháng or năm maybe
+
+Thiết lập giá
+- Thêm sản phẩm, hình ảnh và giá tiền
+
+Kiểm kho
+- Kiểm tra trong kho còn bao nhiêu sản phẩm
